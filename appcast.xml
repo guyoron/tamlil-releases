@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Tamlil</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sat, 27 Jun 2026 18:36:44 -0700</pubDate>
+            <link>https://github.com/guyoron/tamlil-releases</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/guyoron/tamlil-releases/releases/download/downloads/Tamlil-1.1-2.dmg" length="5574916" type="application/octet-stream" sparkle:edSignature="EFHu63lt239kqFiRBkH5bxrGF3yz4UEJMlPmMSUYbaerqyu2gHXbL96tFklR5CJRSMKw1ld18xCH43rWfDNJBw=="/>
+        </item>
+    </channel>
+</rss>
