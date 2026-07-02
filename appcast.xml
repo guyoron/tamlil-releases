@@ -3,8 +3,17 @@
     <channel>
         <title>Tamlil</title>
         <item>
+            <title>1.5.0</title>
+            <pubDate>Wed, 01 Jul 2026 18:05:38 -0700</pubDate>
+            <link>https://github.com/guyoron/tamlil-releases</link>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/guyoron/tamlil-releases/releases/download/downloads/Tamlil-1.5.0-15.dmg" length="20450693" type="application/octet-stream" sparkle:edSignature="zZhb/GAC2eXyvhVCXxCzaQm7Rs8IJOlruCjRK8DNAxWD21Z2+jDocsLuatMQDd3x8RlaPwfz2+N16zsFnfaABg=="/>
+        </item>
+        <item>
             <title>1.4.8</title>
-            <pubDate>Wed, 01 Jul 2026 12:54:29 -0700</pubDate>
+            <pubDate>Wed, 01 Jul 2026 18:05:37 -0700</pubDate>
             <link>https://github.com/guyoron/tamlil-releases</link>
             <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>1.4.8</sparkle:shortVersionString>
@@ -13,21 +22,12 @@
         </item>
         <item>
             <title>1.4.7</title>
-            <pubDate>Wed, 01 Jul 2026 12:54:27 -0700</pubDate>
+            <pubDate>Wed, 01 Jul 2026 18:05:37 -0700</pubDate>
             <link>https://github.com/guyoron/tamlil-releases</link>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.4.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/guyoron/tamlil-releases/releases/download/downloads/Tamlil-1.4.7-13.dmg" length="20441631" type="application/octet-stream" sparkle:edSignature="8RP6uyNgxROxDiDtUspDhWbg/d7HK8DztQ7v4A9MlkS4d1SfsZ597zUglbjfOYo3+8gl1SVWeOoiihWZ6dRgDw=="/>
-        </item>
-        <item>
-            <title>1.4.6</title>
-            <pubDate>Wed, 01 Jul 2026 12:54:27 -0700</pubDate>
-            <link>https://github.com/guyoron/tamlil-releases</link>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.4.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/guyoron/tamlil-releases/releases/download/downloads/Tamlil-1.4.6-12.dmg" length="20440797" type="application/octet-stream" sparkle:edSignature="BrZ14x9NKlNlrD7eUetxqflWvXiYI8B7SG+HK04iHJCRYRCd2nXsQ+2c7FtqbGb2Cnu8IbRzz7vsbetkQM4CDA=="/>
         </item>
     </channel>
 </rss>
